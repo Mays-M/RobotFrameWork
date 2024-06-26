@@ -51,8 +51,6 @@ Google Index
     [Documentation]    Open Google in a browser
     Open Browser    ${URL}    ${BROWSER}
     [Teardown]    Close Browser
-
-'''
 6. Run the Test:
 
 In the terminal, run the following command: robot test.robot
