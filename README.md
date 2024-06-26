@@ -30,12 +30,10 @@ If you live in Finland, this tool is especially useful as many companiesher use 
    
 3. Install Visual Studio Code
 
-4. In Visual Studio Code, install the Robot Framework extension (link to picture)
-
-5. Create a Test File:
-Create a file named for exmaple **test.robot** with the following content:
-
-  ```sh
+4. In Visual Studio Code, install the Robot Framework extension
+   !(Extensions )[https://github.com/Mays-M/Images/extensions.png]
+5. Create a Test File: Create a file named for exmaple **test.robot** with the following content:
+   ```sh
  *** Settings ***
 Library           SeleniumLibrary  # Updated to SeleniumLibrary, as Selenium2Library is deprecated
 
@@ -54,8 +52,7 @@ Google Index
     Open Browser    ${URL}    ${BROWSER}
     [Teardown]    Close Browser
 
-
-
-6.Run the Test:
+    
+6. Run the Test:
 
 In the terminal, run the following command: robot test.robot
