@@ -31,7 +31,7 @@ If you live in Finland, this tool is especially useful as many companiesher use 
 3. Install Visual Studio Code
 
 4. In Visual Studio Code, install the Robot Framework extension
-   ![Extensions](https://github.com/Mays-M/Images/extensions.png)
+   ![Extensions](https://github.com/Mays-M/Images/blob/main/extensions.png)
 5. Create a Test File: Create a file named for exmaple **test.robot** with the following content:
    ```sh
  *** Settings ***
