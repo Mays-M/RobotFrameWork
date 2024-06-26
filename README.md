@@ -8,7 +8,7 @@ It is an automated testing tool created by Finnish developers: Pekka Klärck, Ja
 
 1. Install Python: [Download Python](https://www.python.org/downloads/)
 
-2. On Windows, navigate to cmd and type:
+2. On Windows, navigate to ** cmd ** and type:
 
    ```sh
    # To verify that Python is installed
