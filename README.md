@@ -33,8 +33,8 @@ If you live in Finland, this tool is especially useful as many companiesher use 
 4. In Visual Studio Code, install the Robot Framework extension
    ![Extensions](https://github.com/Mays-M/Images/blob/main/extensions.png)
 5. Create a Test File: Create a file named for exmaple **test.robot** with the following content:
-   
-   ```sh
+  
+  ```sh
  *** Settings ***
 Library           SeleniumLibrary  # Updated to SeleniumLibrary, as Selenium2Library is deprecated
 
