@@ -34,23 +34,24 @@ It is an automated testing tool created by Finnish developers: Pekka Klärck, Ja
 Create a file named for exmaple **test.robot** with the following content:
 
   ```sh
-*** Settings ***
-Library           SeleniumLibrary  # Updated to SeleniumLibrary, as Selenium2Library is deprecated
+ *** Settings ***
+ Library           SeleniumLibrary  # Updated to SeleniumLibrary, as Selenium2Library is deprecated
 
-*** Variables ***
-${BROWSER}        Google Chrome
-${URL}            http://www.google.com
+ *** Variables ***
+ ${BROWSER}        Google Chrome
+ ${URL}            http://www.google.com
 
-*** Test Cases ***
-Go to Google
-    [Documentation]    Open Google in a browser
-    Open Browser    ${URL}    ${BROWSER}
-    [Teardown]    Close Browser
+ *** Test Cases ***
+ Go to Google
+     [Documentation]    Open Google in a browser
+     Open Browser    ${URL}    ${BROWSER}
+     [Teardown]    Close Browser
 
-Google Index
-    [Documentation]    Open Google in a browser
-    Open Browser    ${URL}    ${BROWSER}
-    [Teardown]    Close Browser
-6. Run the Test:
+ Google Index
+     [Documentation]    Open Google in a browser
+     Open Browser    ${URL}    ${BROWSER}
+     [Teardown]    Close Browser
+
+6.Run the Test:
 
 In the terminal, run the following command: robot test.robot
