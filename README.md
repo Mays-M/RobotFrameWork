@@ -33,7 +33,7 @@ It is an automated testing tool created by Finnish developers: Pekka Klärck, Ja
 Create a Test File:
 Create a file named test.robot with the following content:
 
-"""
+  ```sh
 *** Settings ***
 Library           SeleniumLibrary  # Updated to SeleniumLibrary, as Selenium2Library is deprecated
 
