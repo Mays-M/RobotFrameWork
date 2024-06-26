@@ -2,7 +2,7 @@
 
 It is an automated testing tool created by Finnish developers: Pekka Klärck, Janne Härkönen, et al. 
 
-If you live in Finland, this tool is especially useful as many companies there use it.
+If you live in Finland, this tool is especially useful as many companiesher use it.
 
 ## How to Test Your Work:
 
