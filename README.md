@@ -1,6 +1,8 @@
 # [Robot Framework](https://robotframework.org/)
 
-It is an automated testing tool created by Finnish developers: Pekka Klärck, Janne Härkönen, et al. If you live in Finland, this tool is especially useful as many companies there use it.
+It is an automated testing tool created by Finnish developers: Pekka Klärck, Janne Härkönen, et al. 
+
+If you live in Finland, this tool is especially useful as many companies there use it.
 
 ## How to Test Your Work:
 
