@@ -53,7 +53,6 @@ Google Index
     [Teardown]    Close Browser
 
 
-
 6. Run the Test:
 
 In the terminal, run the following command: robot test.robot
