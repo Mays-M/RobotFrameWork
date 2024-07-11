@@ -68,7 +68,7 @@ Now try to login to manually test, end the server by pressing ctrl-c.
 ## Result of the Test
 <h3>Report.html</h3>
 
-![Extensions](https://github.com/Mays-M/Images/blob/main/repor_html.png)
+![Extensions](https://github.com/Mays-M/Images/blob/main/report_html.png)
 
 
 <h3>log.html</h3>
