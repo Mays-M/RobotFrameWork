@@ -31,8 +31,7 @@ If you live in Finland, this tool is especially useful as many companiesher use 
    ![Extensions](https://github.com/Mays-M/Images/blob/main/webdemo.png)
    
 4. Requirements for this demo are having Python, Pip, Robot Framework and SeleniumLibrary installed. This demo includes requirements.txt -file so we just need to give command:
-  
-    ```sh
+   ```sh
  pip install -r requirements.txt
 
 5. install browser and operating system specific browser drivers for all those browsers you want to use in tests:
@@ -40,8 +39,7 @@ If you live in Finland, this tool is especially useful as many companiesher use 
 
  6. Next we start the demo application with command:
     <h3>Manually testing </h3> 
-    
-     ```sh
+    ```sh
  python demoapp/server.py
 
 ![Extensions](https://github.com/Mays-M/Images/blob/main/manual_test.png)
