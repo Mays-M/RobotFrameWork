@@ -6,7 +6,7 @@ If you live in Finland, this tool is especially useful as many companiesher use 
 
 ## How to Test Your Work:
 
-### Get Started with Installation:
+### Web testing with Robot Framework and SeleniumLibrary
 
 1. Install Python: [Download Python](https://www.python.org/downloads/)
 
