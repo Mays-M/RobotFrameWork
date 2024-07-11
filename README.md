@@ -26,9 +26,9 @@ If you live in Finland, this tool is especially useful as many finnish companies
    # To check the library list
    pip list
    
-3. Download[Web Testing Demo](https://github.com/robotframework/WebDemo) the repository from GitHub . As a result you’ll get directory WebDemo-master and demoapp , docs and login_tests subdirectories:
+3. Download [Web Testing Demo](https://github.com/robotframework/WebDemo) the repository from GitHub . As a result you’ll get directory WebDemo-master and demoapp , docs and login_tests subdirectories:
    
-   ![Extensions](https://github.com/Mays-M/Images/blob/main/webdemo.png)
+   ![web_Demo](https://github.com/Mays-M/Images/blob/main/webdemo.png)
    
 4. Requirements for this demo are having Python, Pip, Robot Framework and SeleniumLibrary installed. This demo includes requirements.txt -file so we just need to give command:
     ```sh
