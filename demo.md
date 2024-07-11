@@ -32,7 +32,7 @@ If you live in Finland, this tool is especially useful as many companiesher use 
    
 4. Requirements for this demo are having Python, Pip, Robot Framework and SeleniumLibrary installed. This demo includes requirements.txt -file so we just need to give command:
     ```sh
-  pip install -r requirements.txt
+     pip install -r requirements.txt
 
 6. install browser and operating system specific browser drivers for all those browsers you want to use in tests:
    pip install seleniumbase
@@ -41,7 +41,7 @@ If you live in Finland, this tool is especially useful as many companiesher use 
     <h3>Manually testing </h3>
 
     ```sh
-   python demoapp/server.py
+      python demoapp/server.py
 
 ![Extensions](https://github.com/Mays-M/Images/blob/main/manual_test.png)
 
