@@ -62,6 +62,6 @@ Now try to login to manually test, end the server by pressing ctrl-c.
      ```sh
       robot login_tests
      
-  ![Extensions](https://github.com/Mays-M/Images/blob/main/pass_report.png)
+![Extensions](https://github.com/Mays-M/Images/blob/main/pass_report.png)
   
 
