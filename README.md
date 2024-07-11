@@ -66,12 +66,13 @@ Now try to login to manually test, end the server by pressing ctrl-c.
   
 
 ## Result of the Test
-<h3>Report.html</h3>
+
+<h4>Report.html</h4>
 
 ![Extensions](https://github.com/Mays-M/Images/blob/main/report_html.png)
 
 
-<h3>log.html</h3>
+<h4>log.html</h4>
 
 ![Extensions](https://github.com/Mays-M/Images/blob/main/log_html.png)
 
