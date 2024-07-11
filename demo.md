@@ -50,13 +50,18 @@ Open browserand navigate to http://localhost:7272 .
 The demo application is a very simple login page. With user name demo and password mode you get into a welcome page and otherwise you end up on an error page.
 
 Now try to login to manually test, end the server by pressing ctrl-c.
+
+
 ![Extensions](https://github.com/Mays-M/Images/blob/main/login_page.png)
 
 <h3>Automated test </h3> 
 
 - so let’s start it again.
 - Locate demoapp/server.py from your file manager and Run it with python
-- next run automated tests with cmd: robot login_tests
+- next run automated tests with cmd:
+     ```sh
+      robot login_tests
+     
   ![Extensions](https://github.com/Mays-M/Images/blob/main/pass_report.png)
   
 
