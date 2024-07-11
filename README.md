@@ -65,3 +65,18 @@ Now try to login to manually test, end the server by pressing ctrl-c.
 ![Extensions](https://github.com/Mays-M/Images/blob/main/pass_report.png)
   
 
+## Result of the Test
+<h3>Report.html</h3>
+
+![Extensions](https://github.com/Mays-M/Images/blob/main/repor_html.png)
+
+
+<h3>log.html</h3>
+
+![Extensions](https://github.com/Mays-M/Images/blob/main/log_html.png)
+
+
+
+
+
+
