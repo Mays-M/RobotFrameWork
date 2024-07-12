@@ -9,7 +9,7 @@ If you live in Finland, this tool is especially useful as many finnish companies
 
 - Variables, as keywords, are case-insensitive, and spaces and underscores are ignored.
 - Recommendation is to use CAPITAL letters with global variables like ${PATH} and small letters with local variables like ${name}.
-- Variable names have type identifiers $, @, &, % and variable names between the mandatory curly braces like ${VAR}.
+- Variable names have type identifiers and variable names between the mandatory curly braces like ${VAR}.
 - Robot Framework has scalars ${SCALAR}, lists @{LIST} and dictionaries &{DICT}. Environment variables are used as strings with %{ENV_VAR}.
 
   
