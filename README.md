@@ -4,7 +4,6 @@ Robot Framework is released under the Apache License 2.0. Development of Robot F
 
 If you live in Finland, this tool is especially useful as many finnish companies use it.
 
------------------------------------------------------------------------------------------------------------------
 
 ### Defining variables
 
