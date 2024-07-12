@@ -4,6 +4,16 @@ Robot Framework is released under the Apache License 2.0. Development of Robot F
 
 If you live in Finland, this tool is especially useful as many finnish companies use it.
 
+-----------------------------------------------------------------------------------------------------------------
+
+### Defining variables
+
+- Variables, as keywords, are case-insensitive, and spaces and underscores are ignored.
+- Recommendation is to use CAPITAL letters with global variables like ${PATH} and small letters with local variables like ${name}.
+- Variable names have type identifiers ($, @, &, %), and variable names between the mandatory curly braces like ${VAR}
+- Robot Framework has scalars ${SCALAR}, lists @{LIST} and dictionaries &{DICT}. Environment variables are used as strings with %{ENV_VAR}.
+
+  
 ## Web testing with Robot Framework and SeleniumLibrary
 
 1. Install Python: [Download Python](https://www.python.org/downloads/)
