@@ -72,7 +72,7 @@ Now try to login to manually test, end the server by pressing ctrl-c.
 
 ![Extensions](https://github.com/Mays-M/Images/blob/main/login_page.png)
 
-<h3>Automated test </h3> 
+<h3>Automated test using robot framework</h3> 
 
 - so let’s start it again.
 - Locate demoapp/server.py from your file manager and Run it with python
