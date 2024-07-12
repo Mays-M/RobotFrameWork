@@ -4,7 +4,16 @@ Robot Framework is released under the Apache License 2.0. Development of Robot F
 
 If you live in Finland, this tool is especially useful as many finnish companies use it.
 
+### Keywords
 
+- Keywords are like functions that you execute to accomplish various tests.
+- Keywords can be reused and composed, which means that you create keywords by calling other keywords
+  
+  #### Library keywords
+  
+- Library keywords are the lowest level building blocks of creating user keywords and using them in test cases.
+- Libraries are normally imported in the Settings section but can also be imported in the Test Cases section using the Import Library keyword from the BuiltIn Library
+  
 ### Defining variables
 
 - Variables, as keywords, are case-insensitive, and spaces and underscores are ignored.
